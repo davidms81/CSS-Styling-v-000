@@ -7,5 +7,6 @@ property: value;
 }
 /* type selector */
 p {
-  font-size:16px;
+  font-size:1em;
+  line-height:2em;
 }
