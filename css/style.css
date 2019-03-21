@@ -29,3 +29,13 @@ figcaption {
 #logo {
   background-color:red;
 }
+
+/* descendent selector */
+
+#logo h1 {
+  font-family: Autour One', cursive;
+}
+
+#logo h2 {
+  font-family: Autour One', cursive;
+}
