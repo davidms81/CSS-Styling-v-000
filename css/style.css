@@ -17,3 +17,12 @@ figcaption {
   color: #777;
   text-align: right;
 }
+
+/* class selector */
+.milk-text {
+  font: bold 2.6em 'Autour One', cursive;
+  color:#fff;
+  text-shadow: 0 2px 3px #000;
+}
+
+/* id selector */
